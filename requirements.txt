@@ -1,0 +1,18 @@
+# Dependencies for both backend and frontend 
+fastapi
+uvicorn
+streamlit
+requests
+cohere
+python-dotenv
+pinecone-client
+PyPDF2
+pinecone-client
+cohere
+PyPDF2
+python-dotenv
+streamlit
+gradio
+numpy
+pandas
+scikit-learn
