@@ -35,4 +35,4 @@ This is a QA bot project that allows users to upload documents and ask questions
 # Usage
 Upload a document through the frontend.
 Ask questions based on the uploaded document.
-
+Refer 'docs' folder for project documentation.
